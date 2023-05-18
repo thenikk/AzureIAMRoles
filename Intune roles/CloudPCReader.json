@@ -1,0 +1,26 @@
+{
+  "description": "Cloud PC Reader has read access to all Cloud PC features located within the Cloud PC blade.",
+  "displayName": "Cloud PC Reader",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "Microsoft.CloudPC/AuditData/Read",
+        "Microsoft.CloudPC/CloudPCs/Read",
+        "Microsoft.CloudPC/CrossCloudOrganizationMapping/Read",
+        "Microsoft.CloudPC/DeviceImages/Read",
+        "Microsoft.CloudPC/ExternalPartnerSettings/Read",
+        "Microsoft.CloudPC/OnPremisesConnections/Read",
+        "Microsoft.CloudPC/OrganizationSettings/Read",
+        "Microsoft.CloudPC/PerformanceReports/Read",
+        "Microsoft.CloudPC/ProvisioningPolicies/Read",
+        "Microsoft.CloudPC/Roles/Read",
+        "Microsoft.CloudPC/ServicePlan/Read",
+        "Microsoft.CloudPC/SharedUseServicePlans/Read",
+        "Microsoft.CloudPC/Snapshot/Read",
+        "Microsoft.CloudPC/SupportedRegion/Read",
+        "Microsoft.CloudPC/UserSettings/Read"
+      ],
+      "condition": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "description": "Manage all aspects of external user profiles in the extended directory for Teams.",
+  "displayName": "Extended Directory User Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.directory/externalUserProfiles/delete",
+        "microsoft.directory/externalUserProfiles/standard/read",
+        "microsoft.directory/externalUserProfiles/basic/update",
+        "microsoft.directory/pendingExternalUserProfiles/create",
+        "microsoft.directory/pendingExternalUserProfiles/delete",
+        "microsoft.directory/pendingExternalUserProfiles/standard/read",
+        "microsoft.directory/pendingExternalUserProfiles/basic/update"
+      ],
+      "condition": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "description": "Endpoint Privilege Managers can manage Endpoint Privilege Management (EPM) policies in the Intune console.",
+  "displayName": "Endpoint Privilege Manager",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "Microsoft.Intune/Organization/Read",
+        "Microsoft.Intune/EpmPolicy/Create",
+        "Microsoft.Intune/EpmPolicy/Read",
+        "Microsoft.Intune/EpmPolicy/Update",
+        "Microsoft.Intune/EpmPolicy/Delete",
+        "Microsoft.Intune/EpmPolicy/Assign",
+        "Microsoft.Intune/EpmPolicy/ViewReports"
+      ],
+      "condition": null
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "description": "Intune Role Administrators manage custom Intune roles and add assignments for built-in Intune roles. It is the only Intune role that can assign permissions to Administrators.",
+  "displayName": "Intune Role Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "Microsoft.Intune/Organization/Read",
+        "Microsoft.Intune/Roles/Create",
+        "Microsoft.Intune/Roles/Read",
+        "Microsoft.Intune/Roles/Update",
+        "Microsoft.Intune/Roles/Delete",
+        "Microsoft.Intune/Roles/Assign"
+      ],
+      "condition": null
+    }
+  ]
+}

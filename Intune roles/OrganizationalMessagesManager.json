@@ -1,0 +1,18 @@
+{
+  "description": "Organizational Messages Managers can manage organizational messages in Intune console.",
+  "displayName": "Organizational Messages Manager",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "Microsoft.Intune/Organization/Read",
+        "Microsoft.Intune/OrganizationalMessages/Create",
+        "Microsoft.Intune/OrganizationalMessages/Read",
+        "Microsoft.Intune/OrganizationalMessages/Update",
+        "Microsoft.Intune/OrganizationalMessages/Delete",
+        "Microsoft.Intune/OrganizationalMessages/Assign",
+        "Microsoft.Intune/OrganizationalMessages/UpdateControl"
+      ],
+      "condition": null
+    }
+  ]
+}

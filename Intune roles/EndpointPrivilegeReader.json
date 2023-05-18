@@ -1,0 +1,14 @@
+{
+  "description": "Organizational Messages Readers can view Endpoint Privilege Management (EPM) policies in the Intune console.",
+  "displayName": "Endpoint Privilege Reader",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "Microsoft.Intune/Organization/Read",
+        "Microsoft.Intune/EpmPolicy/Read",
+        "Microsoft.Intune/EpmPolicy/ViewReports"
+      ],
+      "condition": null
+    }
+  ]
+}

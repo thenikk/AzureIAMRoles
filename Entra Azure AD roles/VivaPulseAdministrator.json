@@ -1,0 +1,16 @@
+{
+  "description": "Can manage all settings for Microsoft Viva Pulse app.",
+  "displayName": "Viva Pulse Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.office365.messageCenter/messages/read",
+        "microsoft.office365.serviceHealth/allEntities/allTasks",
+        "microsoft.office365.supportTickets/allEntities/allTasks",
+        "microsoft.office365.usageReports/allEntities/allProperties/read",
+        "microsoft.office365.webPortal/allEntities/standard/read"
+      ],
+      "condition": null
+    }
+  ]
+}
