@@ -4,7 +4,8 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
-        "microsoft.directory/lifecycleWorkflows/workflows/allProperties/allTasks"
+        "microsoft.directory/lifecycleWorkflows/workflows/allProperties/allTasks",
+        "microsoft.directory/organization/strongAuthentication/read"
       ],
       "condition": null
     }
