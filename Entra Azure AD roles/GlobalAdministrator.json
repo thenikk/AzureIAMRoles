@@ -130,6 +130,7 @@
         "microsoft.commerce.billing/purchases/standard/read",
         "microsoft.dynamics365/allEntities/allTasks",
         "microsoft.edge/allEntities/allProperties/allTasks",
+        "microsoft.networkAccess/allEntities/allProperties/allTasks",
         "microsoft.flow/allEntities/allTasks",
         "microsoft.hardware.support/shippingAddress/allProperties/allTasks",
         "microsoft.hardware.support/shippingStatus/allProperties/read",

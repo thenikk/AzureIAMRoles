@@ -56,6 +56,7 @@
         "microsoft.directory/signInReports/allProperties/read",
         "microsoft.azure.serviceHealth/allEntities/allTasks",
         "microsoft.azure.supportTickets/allEntities/allTasks",
+        "microsoft.networkAccess/allEntities/allProperties/allTasks",
         "microsoft.office365.protectionCenter/allEntities/standard/read",
         "microsoft.office365.protectionCenter/allEntities/basic/update",
         "microsoft.office365.protectionCenter/attackSimulator/payload/allProperties/allTasks",

@@ -65,6 +65,7 @@
         "microsoft.commerce.billing/allEntities/allProperties/read",
         "microsoft.commerce.billing/purchases/standard/read",
         "microsoft.edge/allEntities/allProperties/read",
+        "microsoft.networkAccess/allEntities/allProperties/read",
         "microsoft.hardware.support/shippingAddress/allProperties/read",
         "microsoft.hardware.support/shippingStatus/allProperties/read",
         "microsoft.hardware.support/warrantyClaims/allProperties/read",

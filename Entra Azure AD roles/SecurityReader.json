@@ -23,6 +23,7 @@
         "microsoft.directory/provisioningLogs/allProperties/read",
         "microsoft.directory/signInReports/allProperties/read",
         "microsoft.azure.serviceHealth/allEntities/allTasks",
+        "microsoft.networkAccess/allEntities/allProperties/read",
         "microsoft.office365.protectionCenter/allEntities/standard/read",
         "microsoft.office365.protectionCenter/attackSimulator/payload/allProperties/read",
         "microsoft.office365.protectionCenter/attackSimulator/reports/allProperties/read",
