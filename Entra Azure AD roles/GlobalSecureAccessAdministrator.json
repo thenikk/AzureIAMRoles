@@ -1,0 +1,31 @@
+{
+  "description": "Create and manage all aspects of Global Secure Internet Access and Microsoft Global Secure Private Access, including managing access to public and private endpoints.",
+  "displayName": "Global Secure Access Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.azure.supportTickets/allEntities/allTasks",
+        "microsoft.directory/applicationPolicies/standard/read",
+        "microsoft.directory/applications/applicationProxy/read",
+        "microsoft.directory/applications/owners/read",
+        "microsoft.directory/applications/policies/read",
+        "microsoft.directory/applications/standard/read",
+        "microsoft.directory/auditLogs/allProperties/read",
+        "microsoft.directory/conditionalAccessPolicies/standard/read",
+        "microsoft.directory/connectorGroups/allProperties/read",
+        "microsoft.directory/connectors/allProperties/read",
+        "microsoft.directory/crossTenantAccessPolicy/default/standard/read",
+        "microsoft.directory/crossTenantAccessPolicy/partners/standard/read",
+        "microsoft.directory/crossTenantAccessPolicy/standard/read",
+        "microsoft.directory/namedLocations/standard/read",
+        "microsoft.directory/signInReports/allProperties/read",
+        "microsoft.networkAccess/allEntities/allProperties/allTasks",
+        "microsoft.office365.messageCenter/messages/read",
+        "microsoft.office365.serviceHealth/allEntities/allTasks",
+        "microsoft.office365.supportTickets/allEntities/allTasks",
+        "microsoft.office365.webPortal/allEntities/standard/read"
+      ],
+      "condition": null
+    }
+  ]
+}
