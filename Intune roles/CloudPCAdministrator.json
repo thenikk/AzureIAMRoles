@@ -28,6 +28,7 @@
         "Microsoft.CloudPC/ExternalPartnerSettings/Create",
         "Microsoft.CloudPC/ExternalPartnerSettings/Read",
         "Microsoft.CloudPC/ExternalPartnerSettings/Update",
+        "Microsoft.CloudPC/InaccessibleReports/Read",
         "Microsoft.CloudPC/OnPremisesConnections/Create",
         "Microsoft.CloudPC/OnPremisesConnections/Delete",
         "Microsoft.CloudPC/OnPremisesConnections/Read",
