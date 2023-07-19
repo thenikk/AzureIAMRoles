@@ -43,6 +43,7 @@
         "microsoft.directory/crossTenantAccessPolicy/standard/read",
         "microsoft.directory/crossTenantAccessPolicy/default/standard/read",
         "microsoft.directory/crossTenantAccessPolicy/partners/standard/read",
+        "microsoft.directory/crossTenantAccessPolicy/partners/identitySynchronization/standard/read",
         "microsoft.directory/deviceManagementPolicies/standard/read",
         "microsoft.directory/deviceRegistrationPolicy/standard/read",
         "microsoft.directory/privilegedIdentityManagement/allProperties/read",
