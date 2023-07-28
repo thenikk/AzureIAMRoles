@@ -169,6 +169,8 @@
         "microsoft.powerApps.powerBI/allEntities/allTasks",
         "microsoft.teams/allEntities/allProperties/allTasks",
         "microsoft.virtualVisits/allEntities/allProperties/allTasks",
+        "microsoft.viva.goals/allEntities/allProperties/allTasks",
+        "microsoft.viva.pulse/allEntities/allProperties/allTasks",
         "microsoft.windows.defenderAdvancedThreatProtection/allEntities/allTasks",
         "microsoft.windows.updatesDeployments/allEntities/allProperties/allTasks"
       ],

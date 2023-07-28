@@ -83,6 +83,8 @@
         "microsoft.permissionsManagement/allEntities/allProperties/read",
         "microsoft.teams/allEntities/allProperties/read",
         "microsoft.virtualVisits/allEntities/allProperties/read",
+        "microsoft.viva.goals/allEntities/allProperties/read",
+        "microsoft.viva.pulse/allEntities/allProperties/read",
         "microsoft.windows.updatesDeployments/allEntities/allProperties/read"
       ],
       "condition": null
