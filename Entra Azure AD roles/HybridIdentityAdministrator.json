@@ -38,6 +38,7 @@
         "microsoft.directory/servicePrincipals/synchronizationCredentials/manage",
         "microsoft.directory/servicePrincipals/synchronizationJobs/manage",
         "microsoft.directory/servicePrincipals/synchronizationSchema/manage",
+        "microsoft.directory/servicePrincipals/appRoleAssignedTo/update",
         "microsoft.directory/servicePrincipals/audience/update",
         "microsoft.directory/servicePrincipals/authentication/update",
         "microsoft.directory/servicePrincipals/basic/update",
