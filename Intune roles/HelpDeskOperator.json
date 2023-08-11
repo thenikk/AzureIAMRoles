@@ -46,6 +46,7 @@
         "Microsoft.Intune/RemoteAssistanceApp/ViewScreen",
         "Microsoft.Intune/RemoteAssistanceApp/TakeFullControl",
         "Microsoft.Intune/RemoteAssistanceApp/Elevation",
+        "Microsoft.Intune/RemoteAssistanceApp/Unattended",
         "Microsoft.Intune/Organization/Read",
         "Microsoft.Intune/EndpointProtection/Read",
         "Microsoft.Intune/EnrollmentProgramToken/Read",
