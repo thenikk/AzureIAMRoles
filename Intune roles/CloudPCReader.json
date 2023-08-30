@@ -9,6 +9,8 @@
         "Microsoft.CloudPC/CrossCloudOrganizationMapping/Read",
         "Microsoft.CloudPC/DeviceImages/Read",
         "Microsoft.CloudPC/ExternalPartnerSettings/Read",
+        "Microsoft.CloudPC/FrontLineServicePlans/Read",
+        "Microsoft.CloudPC/MaintenanceWindows/Read",
         "Microsoft.CloudPC/OnPremisesConnections/Read",
         "Microsoft.CloudPC/OrganizationSettings/Read",
         "Microsoft.CloudPC/PerformanceReports/Read",
