@@ -5,6 +5,8 @@
     {
       "allowedResourceActions": [
         "Microsoft.CloudPC/AuditData/Read",
+        "Microsoft.CloudPC/BulkActions/Read",
+        "Microsoft.CloudPC/BulkActions/Write",
         "Microsoft.CloudPC/CloudPCs/ApplyCurrentProvisioningPolicy",
         "Microsoft.CloudPC/CloudPCs/ChangeUserAccountType",
         "Microsoft.CloudPC/CloudPCs/CreateSnapshot",
