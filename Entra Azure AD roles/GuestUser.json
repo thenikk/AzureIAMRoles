@@ -14,6 +14,8 @@
         "microsoft.directory/groups/members/limitedRead",
         "microsoft.directory/groups/owners/limitedRead",
         "microsoft.directory/groups/settings/limitedRead",
+        "microsoft.directory/multiTenantOrganization/standard/read",
+        "microsoft.directory/multiTenantOrganization/tenants/standard/read",
         "microsoft.directory/organization/basicProfile/read",
         "microsoft.directory/servicePrincipals/appRoleAssignedTo/limitedRead",
         "microsoft.directory/servicePrincipals/appRoleAssignments/limitedRead",

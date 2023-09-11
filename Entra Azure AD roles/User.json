@@ -28,6 +28,8 @@
         "microsoft.directory/groups/memberOf/read",
         "microsoft.directory/groups/members/read",
         "microsoft.directory/groups/owners/read",
+        "microsoft.directory/multiTenantOrganization/standard/read",
+        "microsoft.directory/multiTenantOrganization/tenants/standard/read",
         "microsoft.directory/oAuth2PermissionGrants/standard/read",
         "microsoft.directory/organization/standard/read",
         "microsoft.directory/policies/standard/read",
