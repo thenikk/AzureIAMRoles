@@ -1,5 +1,5 @@
 {
-  "description": "Policy and Profile Managers manage compliance policy, configuration profiles, Apple enrollment and corporate device identifiers.",
+  "description": "Policy and Profile Managers manage compliance policy, configuration profiles, Apple enrollment, Android Enterprise enrollment profiles and corporate device identifiers.",
   "displayName": "Policy and Profile manager",
   "rolePermissions": [
     {
@@ -40,6 +40,7 @@
         "Microsoft.Intune/ManagedApps/Delete",
         "Microsoft.Intune/ManagedApps/Assign",
         "Microsoft.Intune/AndroidSync/Read",
+        "Microsoft.Intune/AndroidSync/UpdateEnrollmentProfiles",
         "Microsoft.Intune/AndroidSync/UpdateOnboarding",
         "Microsoft.Intune/AndroidSync/UpdateApps",
         "Microsoft.Intune/Audit/Read",
