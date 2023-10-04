@@ -37,6 +37,7 @@
         "microsoft.directory/servicePrincipals/appRoleAssignedTo/update",
         "microsoft.directory/users/assignLicense",
         "microsoft.directory/users/create",
+        "microsoft.directory/users/convertExternalToInternalMemberUser",
         "microsoft.directory/users/delete",
         "microsoft.directory/users/disable",
         "microsoft.directory/users/enable",

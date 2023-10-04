@@ -114,6 +114,7 @@
         "microsoft.directory/signInReports/allProperties/read",
         "microsoft.directory/subscribedSkus/allProperties/allTasks",
         "microsoft.directory/users/allProperties/allTasks",
+        "microsoft.directory/users/convertExternalToInternalMemberUser",
         "microsoft.directory/permissionGrantPolicies/create",
         "microsoft.directory/permissionGrantPolicies/delete",
         "microsoft.directory/permissionGrantPolicies/standard/read",
