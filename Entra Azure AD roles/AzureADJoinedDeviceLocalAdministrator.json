@@ -1,5 +1,5 @@
 {
-  "description": "Users assigned to this role are added to the local administrators group on Azure AD-joined devices.",
+  "description": "Users assigned to this role are added to the local administrators group on Microsoft Entra joined devices.",
   "displayName": "Azure AD Joined Device Local Administrator",
   "rolePermissions": [
     {

@@ -1,5 +1,5 @@
 {
-  "description": "Can manage AD to Azure AD cloud provisioning, Azure AD Connect, and federation settings.",
+  "description": "Can manage Active Directory to Microsoft Entra cloud provisioning, Microsoft Entra Connect, and federation settings.",
   "displayName": "Hybrid Identity Administrator",
   "rolePermissions": [
     {

@@ -1,5 +1,5 @@
 {
-  "description": "Read custom security attribute keys and values for supported Azure AD objects.",
+  "description": "Read custom security attribute keys and values for supported Microsoft Entra objects.",
   "displayName": "Attribute Assignment Reader",
   "rolePermissions": [
     {

@@ -1,5 +1,5 @@
 {
-  "description": "Can read security information and reports, and manage configuration in Azure AD and Office 365.",
+  "description": "Can read security information and reports, and manage configuration in Microsoft Entra ID and Office 365.",
   "displayName": "Security Administrator",
   "rolePermissions": [
     {

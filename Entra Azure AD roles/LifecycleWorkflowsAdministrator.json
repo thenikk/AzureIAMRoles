@@ -1,5 +1,5 @@
 {
-  "description": "Create and manage all aspects of workflows and tasks associated with Lifecycle Workflows in Azure AD.",
+  "description": "Create and manage all aspects of workflows and tasks associated with Lifecycle Workflows in Microsoft Entra ID.",
   "displayName": "Lifecycle Workflows Administrator",
   "rolePermissions": [
     {

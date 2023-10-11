@@ -1,5 +1,5 @@
 {
-  "description": "Can read and manage compliance configuration and reports in Azure AD and Microsoft 365.",
+  "description": "Can read and manage compliance configuration and reports in Microsoft Entra ID and Microsoft 365.",
   "displayName": "Compliance Administrator",
   "rolePermissions": [
     {

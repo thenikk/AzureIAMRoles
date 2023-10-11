@@ -1,5 +1,5 @@
 {
-  "description": "Limited access to manage devices in Azure AD.",
+  "description": "Limited access to manage devices in Microsoft Entra ID.",
   "displayName": "Cloud Device Administrator",
   "rolePermissions": [
     {

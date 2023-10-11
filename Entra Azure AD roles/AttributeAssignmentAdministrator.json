@@ -1,5 +1,5 @@
 {
-  "description": "Assign custom security attribute keys and values to supported Azure AD objects.",
+  "description": "Assign custom security attribute keys and values to supported Microsoft Entra objects.",
   "displayName": "Attribute Assignment Administrator",
   "rolePermissions": [
     {

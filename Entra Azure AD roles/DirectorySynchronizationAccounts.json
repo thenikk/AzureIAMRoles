@@ -1,5 +1,5 @@
 {
-  "description": "Only used by Azure AD Connect service.",
+  "description": "Only used by Microsoft Entra Connect service.",
   "displayName": "Directory Synchronization Accounts",
   "rolePermissions": [
     {

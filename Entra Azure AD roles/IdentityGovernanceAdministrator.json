@@ -1,5 +1,5 @@
 {
-  "description": "Manage access using Azure AD for identity governance scenarios.",
+  "description": "Manage access using Microsoft Entra ID for identity governance scenarios.",
   "displayName": "Identity Governance Administrator",
   "rolePermissions": [
     {
