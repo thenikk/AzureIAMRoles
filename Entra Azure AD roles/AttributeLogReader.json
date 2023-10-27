@@ -1,0 +1,10 @@
+{
+  "description": "Read audit logs related to custom security attributes.",
+  "displayName": "Attribute Log Reader",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [],
+      "condition": null
+    }
+  ]
+}
