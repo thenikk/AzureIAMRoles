@@ -102,6 +102,8 @@
         "microsoft.directory/groupsAssignableToRoles/delete",
         "microsoft.directory/groupsAssignableToRoles/restore",
         "microsoft.directory/groupsAssignableToRoles/allProperties/update",
+        "microsoft.directory/groupsAssignableToRoles/assignLicense",
+        "microsoft.directory/groupsAssignableToRoles/reprocessLicenseAssignment",
         "microsoft.directory/policies/delete",
         "microsoft.directory/policies/basic/update",
         "microsoft.directory/policies/owners/update",

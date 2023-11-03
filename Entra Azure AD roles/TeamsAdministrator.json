@@ -34,7 +34,8 @@
         "microsoft.directory/pendingExternalUserProfiles/delete",
         "microsoft.directory/externalUserProfiles/standard/read",
         "microsoft.directory/externalUserProfiles/basic/update",
-        "microsoft.directory/externalUserProfiles/delete"
+        "microsoft.directory/externalUserProfiles/delete",
+        "microsoft.directory/permissionGrantPolicies/standard/read"
       ],
       "condition": null
     }

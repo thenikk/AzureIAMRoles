@@ -32,6 +32,8 @@
         "microsoft.directory/deletedItems/delete",
         "microsoft.directory/deletedItems/restore",
         "microsoft.directory/devices/allProperties/allTasks",
+        "microsoft.directory/groupsAssignableToRoles/assignLicense",
+        "microsoft.directory/groupsAssignableToRoles/reprocessLicenseAssignment",
         "microsoft.directory/multiTenantOrganization/basic/update",
         "microsoft.directory/multiTenantOrganization/create",
         "microsoft.directory/multiTenantOrganization/joinRequest/organizationDetails/update",

@@ -17,6 +17,8 @@
         "microsoft.directory/groupsAssignableToRoles/delete",
         "microsoft.directory/groupsAssignableToRoles/restore",
         "microsoft.directory/groupsAssignableToRoles/allProperties/update",
+        "microsoft.directory/groupsAssignableToRoles/assignLicense",
+        "microsoft.directory/groupsAssignableToRoles/reprocessLicenseAssignment",
         "microsoft.directory/oAuth2PermissionGrants/allProperties/allTasks",
         "microsoft.directory/privilegedIdentityManagement/allProperties/allTasks",
         "microsoft.directory/roleAssignments/allProperties/allTasks",
@@ -25,7 +27,11 @@
         "microsoft.directory/servicePrincipals/appRoleAssignedTo/update",
         "microsoft.directory/servicePrincipals/permissions/update",
         "microsoft.directory/servicePrincipals/managePermissionGrantsForAll.microsoft-company-admin",
-        "microsoft.office365.webPortal/allEntities/standard/read"
+        "microsoft.office365.webPortal/allEntities/standard/read",
+        "microsoft.directory/permissionGrantPolicies/create",
+        "microsoft.directory/permissionGrantPolicies/delete",
+        "microsoft.directory/permissionGrantPolicies/allProperties/read",
+        "microsoft.directory/permissionGrantPolicies/allProperties/update"
       ],
       "condition": null
     }
