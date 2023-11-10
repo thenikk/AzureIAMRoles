@@ -54,6 +54,7 @@
         "Microsoft.Intune/RemoteTasks/ActivateDeviceEsim",
         "Microsoft.Intune/RemoteTasks/RequestRemoteAssistance",
         "Microsoft.Intune/RemoteTasks/InitiateMDMKeyRecovery",
+        "Microsoft.Intune/RemoteTasks/InitiateDeviceAttestation",
         "Microsoft.Intune/RemoteTasks/OnDemandProactiveRemediation",
         "Microsoft.Intune/Reports/Read",
         "Microsoft.Intune/PolicySets/Assign",
