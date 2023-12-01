@@ -3,7 +3,9 @@
   "displayName": "Attribute Log Reader",
   "rolePermissions": [
     {
-      "allowedResourceActions": [],
+      "allowedResourceActions": [
+        "microsoft.directory/customSecurityAttributeAuditLogs/allProperties/read"
+      ],
       "condition": null
     }
   ]

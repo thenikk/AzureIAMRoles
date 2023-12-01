@@ -76,6 +76,7 @@
         "microsoft.directory/passwordHashSync/allProperties/allTasks",
         "microsoft.directory/policies/allProperties/allTasks",
         "microsoft.directory/conditionalAccessPolicies/allProperties/allTasks",
+        "microsoft.directory/passwordManagementPolicies/standard/read",
         "microsoft.directory/crossTenantAccessPolicy/standard/read",
         "microsoft.directory/crossTenantAccessPolicy/allowedCloudEndpoints/update",
         "microsoft.directory/crossTenantAccessPolicy/basic/update",
