@@ -19,7 +19,6 @@
         "Microsoft.CloudPC/OrganizationSettings/Read",
         "Microsoft.CloudPC/PerformanceReports/Read",
         "Microsoft.CloudPC/ProvisioningPolicies/Read",
-        "Microsoft.CloudPC/Reports/Export",
         "Microsoft.CloudPC/Roles/Read",
         "Microsoft.CloudPC/ServicePlan/Read",
         "Microsoft.CloudPC/SharedUseLicenseUsageReports/Read",
