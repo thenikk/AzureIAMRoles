@@ -4,6 +4,7 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
+        "Microsoft.CloudPC/ActionStatus/Read",
         "Microsoft.CloudPC/AuditData/Read",
         "Microsoft.CloudPC/BulkActions/Read",
         "Microsoft.CloudPC/BulkActions/Write",
