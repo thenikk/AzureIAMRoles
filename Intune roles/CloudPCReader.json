@@ -9,6 +9,7 @@
         "Microsoft.CloudPC/BulkActions/Read",
         "Microsoft.CloudPC/CloudPCs/Read",
         "Microsoft.CloudPC/CrossCloudOrganizationMapping/Read",
+        "Microsoft.CloudPC/CrossRegionDisasterRecovery/Read",
         "Microsoft.CloudPC/DeviceImages/Read",
         "Microsoft.CloudPC/DeviceRecommendation/Read",
         "Microsoft.CloudPC/ExternalPartnerSettings/Read",
