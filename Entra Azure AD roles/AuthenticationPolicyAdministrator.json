@@ -5,7 +5,6 @@
     {
       "allowedResourceActions": [
         "microsoft.directory/organization/strongAuthentication/allTasks",
-        "microsoft.directory/passwordManagementPolicies/standard/read",
         "microsoft.directory/userCredentialPolicies/create",
         "microsoft.directory/userCredentialPolicies/delete",
         "microsoft.directory/userCredentialPolicies/standard/read",

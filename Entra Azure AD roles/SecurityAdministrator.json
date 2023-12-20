@@ -68,7 +68,6 @@
         "microsoft.directory/conditionalAccessPolicies/basic/update",
         "microsoft.directory/conditionalAccessPolicies/owners/update",
         "microsoft.directory/conditionalAccessPolicies/tenantDefault/update",
-        "microsoft.directory/passwordManagementPolicies/standard/read",
         "microsoft.directory/privilegedIdentityManagement/allProperties/read",
         "microsoft.directory/provisioningLogs/allProperties/read",
         "microsoft.directory/resourceNamespaces/resourceActions/authenticationContext/update",
