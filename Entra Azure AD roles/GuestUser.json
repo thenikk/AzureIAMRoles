@@ -34,11 +34,6 @@
       "allowedResourceActions": [
         "microsoft.directory/users/standard/read",
         "microsoft.directory/users/appRoleAssignments/read",
-        "microsoft.directory/users/authenticationMethods/basic/update",
-        "microsoft.directory/users/authenticationMethods/create",
-        "microsoft.directory/users/authenticationMethods/delete",
-        "microsoft.directory/users/authenticationMethods/standard/read",
-        "microsoft.directory/users/authenticationMethods/standard/restrictedRead",
         "microsoft.directory/users/deviceForResourceAccount/read",
         "microsoft.directory/users/directReports/read",
         "microsoft.directory/users/eligibleMemberOf/read",
