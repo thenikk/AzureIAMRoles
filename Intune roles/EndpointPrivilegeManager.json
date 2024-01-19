@@ -10,6 +10,8 @@
         "Microsoft.Intune/EpmPolicy/Update",
         "Microsoft.Intune/EpmPolicy/Delete",
         "Microsoft.Intune/EpmPolicy/Assign",
+        "Microsoft.Intune/EpmPolicy/ViewElevationRequests",
+        "Microsoft.Intune/EpmPolicy/ModifyElevationRequests",
         "Microsoft.Intune/EpmPolicy/ViewReports"
       ],
       "condition": null

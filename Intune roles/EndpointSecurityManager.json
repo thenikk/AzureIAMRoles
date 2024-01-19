@@ -75,7 +75,9 @@
         "Microsoft.Intune/EpmPolicy/Update",
         "Microsoft.Intune/EpmPolicy/Delete",
         "Microsoft.Intune/EpmPolicy/Assign",
-        "Microsoft.Intune/EpmPolicy/ViewReports"
+        "Microsoft.Intune/EpmPolicy/ViewReports",
+        "Microsoft.Intune/EpmPolicy/ViewElevationRequests",
+        "Microsoft.Intune/EpmPolicy/ModifyElevationRequests"
       ],
       "condition": null
     }

@@ -6,7 +6,8 @@
       "allowedResourceActions": [
         "Microsoft.Intune/Organization/Read",
         "Microsoft.Intune/EpmPolicy/Read",
-        "Microsoft.Intune/EpmPolicy/ViewReports"
+        "Microsoft.Intune/EpmPolicy/ViewReports",
+        "Microsoft.Intune/EpmPolicy/ViewElevationRequests"
       ],
       "condition": null
     }

@@ -1,0 +1,14 @@
+{
+  "description": "Perform all migration functionality to migrate content to Microsoft 365 using Migration Manager.",
+  "displayName": "Microsoft 365 Migration Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.office365.migrations/allEntities/allProperties/allTasks",
+        "microsoft.office365.webPortal/allEntities/standard/read",
+        "microsoft.office365.supportTickets/allEntities/allTasks"
+      ],
+      "condition": null
+    }
+  ]
+}

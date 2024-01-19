@@ -4,6 +4,7 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
+        "microsoft.azure.serviceHealth/allEntities/allTasks",
         "microsoft.directory/accessReviews/allProperties/read",
         "microsoft.directory/accessReviews/definitions/allProperties/read",
         "microsoft.directory/adminConsentRequestPolicy/allProperties/read",
@@ -83,6 +84,7 @@
         "microsoft.office365.organizationalMessages/allEntities/allProperties/read",
         "microsoft.office365.protectionCenter/allEntities/allProperties/read",
         "microsoft.office365.securityComplianceCenter/allEntities/read",
+        "microsoft.office365.serviceHealth/allEntities/allTasks",
         "microsoft.office365.usageReports/allEntities/allProperties/read",
         "microsoft.office365.webPortal/allEntities/standard/read",
         "microsoft.office365.yammer/allEntities/allProperties/read",

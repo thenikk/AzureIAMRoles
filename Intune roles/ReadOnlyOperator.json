@@ -53,6 +53,7 @@
         "Microsoft.Intune/OrganizationalMessages/Read",
         "Microsoft.Intune/EpmPolicy/Read",
         "Microsoft.Intune/EpmPolicy/ViewReports",
+        "Microsoft.Intune/EpmPolicy/ViewElevationRequests",
         "Microsoft.Intune/ServiceNow/ViewIncidents"
       ],
       "condition": null

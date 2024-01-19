@@ -71,7 +71,12 @@
         "Microsoft.Intune/CloudAttach/Collections",
         "Microsoft.Intune/CloudAttach/Applications",
         "Microsoft.Intune/CloudAttach/Scripts",
-        "Microsoft.Intune/CloudAttach/SoftwareUpdates"
+        "Microsoft.Intune/CloudAttach/SoftwareUpdates",
+        "Microsoft.Intune/WindowsOSRecovery/Create",
+        "Microsoft.Intune/WindowsOSRecovery/Read",
+        "Microsoft.Intune/WindowsOSRecovery/Update",
+        "Microsoft.Intune/WindowsOSRecovery/Delete",
+        "Microsoft.Intune/WindowsOSRecovery/Assign"
       ],
       "condition": null
     }
