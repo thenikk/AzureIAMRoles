@@ -7,6 +7,7 @@
         "Microsoft.CloudPC/ActionStatus/Read",
         "Microsoft.CloudPC/AuditData/Read",
         "Microsoft.CloudPC/BulkActions/Read",
+        "Microsoft.CloudPC/CloudPCs/GetCloudPcLaunchInfo",
         "Microsoft.CloudPC/CloudPCs/Read",
         "Microsoft.CloudPC/CrossCloudOrganizationMapping/Read",
         "Microsoft.CloudPC/CrossRegionDisasterRecovery/Read",
