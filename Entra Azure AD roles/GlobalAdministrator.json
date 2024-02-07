@@ -168,6 +168,7 @@
         "microsoft.office365.complianceManager/allEntities/allTasks",
         "microsoft.office365.desktopAnalytics/allEntities/allTasks",
         "microsoft.office365.exchange/allEntities/basic/allTasks",
+        "microsoft.office365.fileStorageContainers/allEntities/allProperties/allTasks",
         "microsoft.office365.knowledge/contentUnderstanding/allProperties/allTasks",
         "microsoft.office365.knowledge/contentUnderstanding/analytics/allProperties/read",
         "microsoft.office365.knowledge/knowledgeNetwork/allProperties/allTasks",
