@@ -56,6 +56,7 @@
         "Microsoft.Intune/RemoteTasks/InitiateMDMKeyRecovery",
         "Microsoft.Intune/RemoteTasks/InitiateDeviceAttestation",
         "Microsoft.Intune/RemoteTasks/OnDemandProactiveRemediation",
+        "Microsoft.Intune/RemoteTasks/ChangeAssignments",
         "Microsoft.Intune/Reports/Read",
         "Microsoft.Intune/PolicySets/Assign",
         "Microsoft.Intune/PolicySets/Create",

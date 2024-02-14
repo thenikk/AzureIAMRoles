@@ -9,6 +9,7 @@
         "microsoft.directory/users/appRoleAssignments/read",
         "microsoft.directory/users/deviceForResourceAccount/read",
         "microsoft.directory/users/directReports/read",
+        "microsoft.directory/users/invitedBy/read",
         "microsoft.directory/users/licenseDetails/read",
         "microsoft.directory/users/manager/read",
         "microsoft.directory/users/memberOf/read",
