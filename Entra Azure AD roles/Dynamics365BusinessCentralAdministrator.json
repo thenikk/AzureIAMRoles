@@ -1,5 +1,5 @@
 {
-  "description": "Can access Dynamics 365 Business Central environments and perform all administrative tasks on the environments.",
+  "description": "Access and perform all administrative tasks on Dynamics 365 Business Central environments.",
   "displayName": "Dynamics 365 Business Central Administrator",
   "rolePermissions": [
     {
