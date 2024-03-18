@@ -26,6 +26,7 @@
         "Microsoft.Intune/AppleEnrollmentProfiles/Update",
         "Microsoft.Intune/AppleEnrollmentProfiles/Delete",
         "Microsoft.Intune/AppleEnrollmentProfiles/Assign",
+        "Microsoft.Intune/EnrollmentProfiles/EnrollmentTimeMembershipAssign",
         "Microsoft.Intune/AppleDeviceSerialNumbers/Create",
         "Microsoft.Intune/AppleDeviceSerialNumbers/Read",
         "Microsoft.Intune/AppleDeviceSerialNumbers/Update",

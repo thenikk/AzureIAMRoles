@@ -12,6 +12,7 @@
         "Microsoft.Intune/AppleEnrollmentProfiles/Delete",
         "Microsoft.Intune/AppleEnrollmentProfiles/Read",
         "Microsoft.Intune/AppleEnrollmentProfiles/Update",
+        "Microsoft.Intune/EnrollmentProfiles/EnrollmentTimeMembershipAssign",
         "Microsoft.Intune/Audit/Read",
         "Microsoft.Intune/DeviceConfigurations/Assign",
         "Microsoft.Intune/DeviceConfigurations/Create",
