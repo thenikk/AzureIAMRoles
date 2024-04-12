@@ -5,7 +5,8 @@
     {
       "allowedResourceActions": [
         "microsoft.directory/lifecycleWorkflows/workflows/allProperties/allTasks",
-        "microsoft.directory/organization/strongAuthentication/read"
+        "microsoft.directory/organization/strongAuthentication/read",
+        "microsoft.directory/users/lifeCycleInfo/read"
       ],
       "condition": null
     }

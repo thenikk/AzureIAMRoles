@@ -1,0 +1,14 @@
+{
+  "description": "Review, approve, or reject new organizational messages for delivery in the Microsoft 365 admin center before they are sent to users.",
+  "displayName": "Organizational Messages Approver",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.office365.organizationalMessages/allEntities/allProperties/read",
+        "microsoft.office365.organizationalMessages/allEntities/allProperties/update",
+        "microsoft.office365.webPortal/allEntities/standard/read"
+      ],
+      "condition": null
+    }
+  ]
+}
