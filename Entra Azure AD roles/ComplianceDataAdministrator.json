@@ -4,11 +4,11 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
-        "microsoft.directory/authorizationPolicy/standard/read",
-        "microsoft.directory/cloudAppSecurity/allProperties/allTasks",
         "microsoft.azure.informationProtection/allEntities/allTasks",
         "microsoft.azure.serviceHealth/allEntities/allTasks",
         "microsoft.azure.supportTickets/allEntities/allTasks",
+        "microsoft.directory/authorizationPolicy/standard/read",
+        "microsoft.directory/cloudAppSecurity/allProperties/allTasks",
         "microsoft.office365.complianceManager/allEntities/allTasks",
         "microsoft.office365.serviceHealth/allEntities/allTasks",
         "microsoft.office365.supportTickets/allEntities/allTasks",

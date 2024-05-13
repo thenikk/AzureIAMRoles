@@ -4,8 +4,8 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
-        "microsoft.office365.exchange/recipients/allProperties/allTasks",
-        "microsoft.office365.exchange/migration/allProperties/allTasks"
+        "microsoft.office365.exchange/migration/allProperties/allTasks",
+        "microsoft.office365.exchange/recipients/allProperties/allTasks"
       ],
       "condition": null
     }

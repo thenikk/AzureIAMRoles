@@ -4,9 +4,9 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
+        "microsoft.directory/attributeSets/allProperties/read",
         "microsoft.directory/azureManagedIdentities/customSecurityAttributes/read",
         "microsoft.directory/azureManagedIdentities/customSecurityAttributes/update",
-        "microsoft.directory/attributeSets/allProperties/read",
         "microsoft.directory/customSecurityAttributeDefinitions/allProperties/read",
         "microsoft.directory/devices/customSecurityAttributes/read",
         "microsoft.directory/devices/customSecurityAttributes/update",

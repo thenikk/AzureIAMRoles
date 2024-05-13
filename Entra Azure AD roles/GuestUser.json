@@ -4,35 +4,34 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
-        "microsoft.directory/applications/standard/limitedRead",
         "microsoft.directory/applications/owners/limitedRead",
         "microsoft.directory/applications/policies/limitedRead",
+        "microsoft.directory/applications/standard/limitedRead",
         "microsoft.directory/domains/standard/read",
-        "microsoft.directory/groups/standard/limitedRead",
         "microsoft.directory/groups/appRoleAssignments/limitedRead",
         "microsoft.directory/groups/memberOf/limitedRead",
         "microsoft.directory/groups/members/limitedRead",
         "microsoft.directory/groups/owners/limitedRead",
         "microsoft.directory/groups/settings/limitedRead",
+        "microsoft.directory/groups/standard/limitedRead",
         "microsoft.directory/multiTenantOrganization/standard/read",
         "microsoft.directory/multiTenantOrganization/tenants/standard/read",
         "microsoft.directory/organization/basicProfile/read",
         "microsoft.directory/servicePrincipals/appRoleAssignedTo/limitedRead",
         "microsoft.directory/servicePrincipals/appRoleAssignments/limitedRead",
-        "microsoft.directory/servicePrincipals/standard/limitedRead",
         "microsoft.directory/servicePrincipals/memberOf/limitedRead",
         "microsoft.directory/servicePrincipals/oAuth2PermissionGrants/limitedRead",
-        "microsoft.directory/servicePrincipals/owners/limitedRead",
         "microsoft.directory/servicePrincipals/ownedObjects/limitedRead",
+        "microsoft.directory/servicePrincipals/owners/limitedRead",
         "microsoft.directory/servicePrincipals/policies/limitedRead",
-        "microsoft.directory/users/inviteGuest",
-        "microsoft.directory/users/guestBasicProfile/limitedRead"
+        "microsoft.directory/servicePrincipals/standard/limitedRead",
+        "microsoft.directory/users/guestBasicProfile/limitedRead",
+        "microsoft.directory/users/inviteGuest"
       ],
       "condition": null
     },
     {
       "allowedResourceActions": [
-        "microsoft.directory/users/standard/read",
         "microsoft.directory/users/appRoleAssignments/read",
         "microsoft.directory/users/authenticationMethods/basic/update",
         "microsoft.directory/users/authenticationMethods/create",
@@ -49,12 +48,13 @@
         "microsoft.directory/users/oAuth2PermissionGrants/read",
         "microsoft.directory/users/ownedDevices/read",
         "microsoft.directory/users/ownedObjects/read",
+        "microsoft.directory/users/password/update",
         "microsoft.directory/users/pendingMemberOf/read",
         "microsoft.directory/users/photo/read",
         "microsoft.directory/users/registeredDevices/read",
         "microsoft.directory/users/scopedRoleMemberOf/read",
         "microsoft.directory/users/sponsors/read",
-        "microsoft.directory/users/password/update"
+        "microsoft.directory/users/standard/read"
       ],
       "condition": "$ResourceIsSelf"
     }

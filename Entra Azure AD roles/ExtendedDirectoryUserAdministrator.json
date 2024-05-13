@@ -4,13 +4,13 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
+        "microsoft.directory/externalUserProfiles/basic/update",
         "microsoft.directory/externalUserProfiles/delete",
         "microsoft.directory/externalUserProfiles/standard/read",
-        "microsoft.directory/externalUserProfiles/basic/update",
+        "microsoft.directory/pendingExternalUserProfiles/basic/update",
         "microsoft.directory/pendingExternalUserProfiles/create",
         "microsoft.directory/pendingExternalUserProfiles/delete",
-        "microsoft.directory/pendingExternalUserProfiles/standard/read",
-        "microsoft.directory/pendingExternalUserProfiles/basic/update"
+        "microsoft.directory/pendingExternalUserProfiles/standard/read"
       ],
       "condition": null
     }

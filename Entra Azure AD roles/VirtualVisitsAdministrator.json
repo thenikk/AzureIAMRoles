@@ -4,8 +4,8 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
-        "microsoft.virtualVisits/allEntities/allProperties/allTasks",
-        "microsoft.office365.webPortal/allEntities/standard/read"
+        "microsoft.office365.webPortal/allEntities/standard/read",
+        "microsoft.virtualVisits/allEntities/allProperties/allTasks"
       ],
       "condition": null
     }

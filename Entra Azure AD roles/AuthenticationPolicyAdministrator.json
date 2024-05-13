@@ -4,25 +4,25 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
+        "microsoft.azure.supportTickets/allEntities/allTasks",
         "microsoft.directory/organization/strongAuthentication/allTasks",
+        "microsoft.directory/userCredentialPolicies/basic/update",
         "microsoft.directory/userCredentialPolicies/create",
         "microsoft.directory/userCredentialPolicies/delete",
-        "microsoft.directory/userCredentialPolicies/standard/read",
         "microsoft.directory/userCredentialPolicies/owners/read",
-        "microsoft.directory/userCredentialPolicies/policyAppliedTo/read",
-        "microsoft.directory/userCredentialPolicies/basic/update",
         "microsoft.directory/userCredentialPolicies/owners/update",
+        "microsoft.directory/userCredentialPolicies/policyAppliedTo/read",
+        "microsoft.directory/userCredentialPolicies/standard/read",
         "microsoft.directory/userCredentialPolicies/tenantDefault/update",
+        "microsoft.directory/verifiableCredentials/configuration/allProperties/read",
+        "microsoft.directory/verifiableCredentials/configuration/allProperties/update",
+        "microsoft.directory/verifiableCredentials/configuration/contracts/allProperties/read",
+        "microsoft.directory/verifiableCredentials/configuration/contracts/allProperties/update",
         "microsoft.directory/verifiableCredentials/configuration/contracts/cards/allProperties/read",
         "microsoft.directory/verifiableCredentials/configuration/contracts/cards/revoke",
         "microsoft.directory/verifiableCredentials/configuration/contracts/create",
-        "microsoft.directory/verifiableCredentials/configuration/contracts/allProperties/read",
-        "microsoft.directory/verifiableCredentials/configuration/contracts/allProperties/update",
         "microsoft.directory/verifiableCredentials/configuration/create",
-        "microsoft.directory/verifiableCredentials/configuration/delete",
-        "microsoft.directory/verifiableCredentials/configuration/allProperties/read",
-        "microsoft.directory/verifiableCredentials/configuration/allProperties/update",
-        "microsoft.azure.supportTickets/allEntities/allTasks"
+        "microsoft.directory/verifiableCredentials/configuration/delete"
       ],
       "condition": null
     }

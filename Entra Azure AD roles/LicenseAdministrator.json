@@ -4,13 +4,13 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
+        "microsoft.azure.serviceHealth/allEntities/allTasks",
         "microsoft.directory/authorizationPolicy/standard/read",
         "microsoft.directory/groups/assignLicense",
         "microsoft.directory/groups/reprocessLicenseAssignment",
         "microsoft.directory/users/assignLicense",
         "microsoft.directory/users/reprocessLicenseAssignment",
         "microsoft.directory/users/usageLocation/update",
-        "microsoft.azure.serviceHealth/allEntities/allTasks",
         "microsoft.office365.serviceHealth/allEntities/allTasks",
         "microsoft.office365.webPortal/allEntities/standard/read"
       ],

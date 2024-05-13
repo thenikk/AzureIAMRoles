@@ -4,8 +4,8 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
-        "microsoft.directory/customSecurityAttributeAuditLogs/allProperties/read",
-        "microsoft.azure.customSecurityAttributeDiagnosticSettings/allEntities/allProperties/allTasks"
+        "microsoft.azure.customSecurityAttributeDiagnosticSettings/allEntities/allProperties/allTasks",
+        "microsoft.directory/customSecurityAttributeAuditLogs/allProperties/read"
       ],
       "condition": null
     }

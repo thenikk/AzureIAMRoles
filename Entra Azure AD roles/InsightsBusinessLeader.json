@@ -4,8 +4,8 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
-        "microsoft.insights/reports/allProperties/read",
-        "microsoft.insights/programs/allProperties/update"
+        "microsoft.insights/programs/allProperties/update",
+        "microsoft.insights/reports/allProperties/read"
       ],
       "condition": null
     }

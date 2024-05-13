@@ -4,8 +4,8 @@
   "rolePermissions": [
     {
       "allowedResourceActions": [
-        "microsoft.directory/authorizationPolicy/standard/read",
         "microsoft.azure.serviceHealth/allEntities/allTasks",
+        "microsoft.directory/authorizationPolicy/standard/read",
         "microsoft.office365.serviceHealth/allEntities/allTasks",
         "microsoft.office365.skypeForBusiness/allEntities/allTasks",
         "microsoft.office365.webPortal/allEntities/standard/read",
