@@ -1,0 +1,10 @@
+{
+  "description": "Only used by Microsoft Entra Connect Sync Account.",
+  "displayName": "On Premises Directory Sync Account",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [],
+      "condition": null
+    }
+  ]
+}
