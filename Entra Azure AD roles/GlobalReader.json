@@ -5,6 +5,7 @@
     {
       "allowedResourceActions": [
         "microsoft.azure.serviceHealth/allEntities/allTasks",
+        "microsoft.backup/allEntities/allProperties/read",
         "microsoft.cloudPC/allEntities/allProperties/read",
         "microsoft.commerce.billing/allEntities/allProperties/read",
         "microsoft.commerce.billing/purchases/standard/read",

@@ -8,6 +8,7 @@
         "microsoft.azure.informationProtection/allEntities/allTasks",
         "microsoft.azure.serviceHealth/allEntities/allTasks",
         "microsoft.azure.supportTickets/allEntities/allTasks",
+        "microsoft.backup/allEntities/allProperties/allTasks",
         "microsoft.cloudPC/allEntities/allProperties/allTasks",
         "microsoft.commerce.billing/allEntities/allProperties/allTasks",
         "microsoft.commerce.billing/purchases/standard/read",
