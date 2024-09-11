@@ -3,7 +3,9 @@
   "displayName": "Directory Synchronization Accounts",
   "rolePermissions": [
     {
-      "allowedResourceActions": [],
+      "allowedResourceActions": [
+        "microsoft.directory/onPremisesSynchronization/standard/read"
+      ],
       "condition": null
     }
   ]

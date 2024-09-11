@@ -30,6 +30,8 @@
         "microsoft.directory/domains/federationConfiguration/standard/read",
         "microsoft.directory/domains/federation/update",
         "microsoft.directory/hybridAuthenticationPolicy/allProperties/allTasks",
+        "microsoft.directory/onPremisesSynchronization/basic/update",
+        "microsoft.directory/onPremisesSynchronization/standard/read",
         "microsoft.directory/organization/dirSync/update",
         "microsoft.directory/passwordHashSync/allProperties/allTasks",
         "microsoft.directory/provisioningLogs/allProperties/read",

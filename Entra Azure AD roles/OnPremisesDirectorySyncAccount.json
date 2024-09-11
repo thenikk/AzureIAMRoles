@@ -3,7 +3,9 @@
   "displayName": "On Premises Directory Sync Account",
   "rolePermissions": [
     {
-      "allowedResourceActions": [],
+      "allowedResourceActions": [
+        "microsoft.directory/onPremisesSynchronization/standard/read"
+      ],
       "condition": null
     }
   ]
