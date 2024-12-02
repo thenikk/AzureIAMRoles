@@ -80,6 +80,7 @@
         "microsoft.hardware.support/warrantyClaims/allProperties/read",
         "microsoft.insights/allEntities/allProperties/read",
         "microsoft.networkAccess/allEntities/allProperties/read",
+        "microsoft.office365.copilot/allEntities/allProperties/read",
         "microsoft.office365.fileStorageContainers/allEntities/allProperties/read",
         "microsoft.office365.messageCenter/messages/read",
         "microsoft.office365.messageCenter/securityMessages/read",

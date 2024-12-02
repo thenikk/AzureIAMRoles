@@ -170,6 +170,7 @@
         "microsoft.intune/allEntities/allTasks",
         "microsoft.networkAccess/allEntities/allProperties/allTasks",
         "microsoft.office365.complianceManager/allEntities/allTasks",
+        "microsoft.office365.copilot/allEntities/allProperties/allTasks",
         "microsoft.office365.desktopAnalytics/allEntities/allTasks",
         "microsoft.office365.exchange/allEntities/basic/allTasks",
         "microsoft.office365.fileStorageContainers/allEntities/allProperties/allTasks",
