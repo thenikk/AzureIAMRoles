@@ -64,7 +64,7 @@
         "Microsoft.Intune/RemoteTasks/RotateFileVaultKey",
         "Microsoft.Intune/SecurityBaselines/Read",
         "Microsoft.Intune/ASRPolicy/Read",
-        "Microsoft.Intune/EDRlines/Read",
+        "Microsoft.Intune/EDRPolicy/Read",
         "Microsoft.Intune/AppControlPolicy/Read",
         "Microsoft.Intune/PolicySets/Read",
         "Microsoft.Intune/RemoteTasks/ConfigurationManagerAction",
