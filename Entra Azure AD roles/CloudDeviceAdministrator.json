@@ -18,6 +18,9 @@
         "microsoft.directory/devices/delete",
         "microsoft.directory/devices/disable",
         "microsoft.directory/devices/enable",
+        "microsoft.directory/devices/permissions/update",
+        "microsoft.directory/deviceTemplates/owners/read",
+        "microsoft.directory/deviceTemplates/owners/update",
         "microsoft.directory/signInReports/allProperties/read",
         "microsoft.office365.serviceHealth/allEntities/allTasks"
       ],

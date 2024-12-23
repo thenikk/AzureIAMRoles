@@ -46,6 +46,7 @@
         "microsoft.directory/users/enable",
         "microsoft.directory/users/invalidateAllRefreshTokens",
         "microsoft.directory/users/inviteGuest",
+        "microsoft.directory/users/lifeCycleInfo/read",
         "microsoft.directory/users/manager/update",
         "microsoft.directory/users/password/update",
         "microsoft.directory/users/photo/update",

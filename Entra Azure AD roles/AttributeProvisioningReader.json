@@ -1,0 +1,12 @@
+{
+  "description": "Read the provisioning configuration of all active custom security attributes for an application.",
+  "displayName": "Attribute Provisioning Reader",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.directory/servicePrincipals/synchronization.customSecurityAttributes/schema/read"
+      ],
+      "condition": null
+    }
+  ]
+}
