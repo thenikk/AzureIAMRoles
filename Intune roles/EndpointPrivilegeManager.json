@@ -12,7 +12,8 @@
         "Microsoft.Intune/EpmPolicy/Assign",
         "Microsoft.Intune/EpmPolicy/ViewElevationRequests",
         "Microsoft.Intune/EpmPolicy/ModifyElevationRequests",
-        "Microsoft.Intune/EpmPolicy/ViewReports"
+        "Microsoft.Intune/EpmPolicy/ViewReports",
+        "Microsoft.Intune/ManagedDevices/Read"
       ],
       "condition": null
     }
