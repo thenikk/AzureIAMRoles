@@ -1,0 +1,12 @@
+{
+  "description": "Provides designated security personnel with read-only access to network traffic logs in Microsoft Entra Internet Access and Microsoft Entra Private Access for detailed analysis.",
+  "displayName": "Global Secure Access Log Reader",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.networkAccess/trafficLogs/standard/read"
+      ],
+      "condition": null
+    }
+  ]
+}

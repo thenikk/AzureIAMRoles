@@ -1,0 +1,15 @@
+{
+  "description": "Manage profile photos of users and people settings for all users in the organization.",
+  "displayName": "People Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.peopleAdmin/organization/allProperties/read",
+        "microsoft.peopleAdmin/organization/allProperties/update",
+        "microsoft.people/users/photo/read",
+        "microsoft.people/users/photo/update"
+      ],
+      "condition": null
+    }
+  ]
+}

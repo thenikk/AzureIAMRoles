@@ -1,0 +1,21 @@
+{
+  "description": "Provision new IoT devices, manage their lifecycle, configure certificates, and manage device templates.",
+  "displayName": "IoT Device Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.directory/certificateBasedDeviceAuthConfigurations/create",
+        "microsoft.directory/certificateBasedDeviceAuthConfigurations/credentials/update",
+        "microsoft.directory/certificateBasedDeviceAuthConfigurations/delete",
+        "microsoft.directory/certificateBasedDeviceAuthConfigurations/standard/read",
+        "microsoft.directory/deviceTemplates/create",
+        "microsoft.directory/deviceTemplates/createDeviceFromTemplate",
+        "microsoft.directory/deviceTemplates/delete",
+        "microsoft.directory/deviceTemplates/deviceInstances/read",
+        "microsoft.directory/deviceTemplates/owners/read",
+        "microsoft.directory/deviceTemplates/owners/update"
+      ],
+      "condition": null
+    }
+  ]
+}
