@@ -1,0 +1,17 @@
+{
+  "description": "Manage and configure Microsoft Viva Glint settings in the Microsoft 365 admin center.",
+  "displayName": "Viva Glint Tenant Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.azure.serviceHealth/allEntities/allTasks",
+        "microsoft.azure.supportTickets/allEntities/allTasks",
+        "microsoft.office365.messageCenter/messages/read",
+        "microsoft.office365.usageReports/allEntities/allProperties/read",
+        "microsoft.office365.webPortal/allEntities/standard/read",
+        "microsoft.viva.glint/allEntities/allProperties/allTasks"
+      ],
+      "condition": null
+    }
+  ]
+}

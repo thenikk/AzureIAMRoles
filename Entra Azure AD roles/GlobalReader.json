@@ -53,6 +53,7 @@
         "microsoft.directory/multiTenantOrganization/tenants/standard/read",
         "microsoft.directory/namedLocations/standard/read",
         "microsoft.directory/oAuth2PermissionGrants/allProperties/read",
+        "microsoft.directory/onPremisesSynchronization/standard/read",
         "microsoft.directory/organization/allProperties/read",
         "microsoft.directory/pendingExternalUserProfiles/standard/read",
         "microsoft.directory/permissionGrantPolicies/standard/read",
@@ -95,6 +96,7 @@
         "microsoft.permissionsManagement/allEntities/allProperties/read",
         "microsoft.teams/allEntities/allProperties/read",
         "microsoft.virtualVisits/allEntities/allProperties/read",
+        "microsoft.viva.glint/allEntities/allProperties/read",
         "microsoft.viva.goals/allEntities/allProperties/read",
         "microsoft.viva.pulse/allEntities/allProperties/read",
         "microsoft.windows.updatesDeployments/allEntities/allProperties/read"

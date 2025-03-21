@@ -35,6 +35,7 @@
         "microsoft.directory/groups/settings/update",
         "microsoft.directory/groups/visibility/update",
         "microsoft.directory/oAuth2PermissionGrants/allProperties/allTasks",
+        "microsoft.directory/onPremisesSynchronization/standard/read",
         "microsoft.directory/policies/standard/read",
         "microsoft.directory/servicePrincipals/appRoleAssignedTo/update",
         "microsoft.directory/users/assignLicense",
