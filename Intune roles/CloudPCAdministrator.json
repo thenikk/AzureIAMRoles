@@ -80,6 +80,8 @@
         "Microsoft.CloudPC/ServicePlan/Read",
         "Microsoft.CloudPC/SharedUseLicenseUsageReports/Read",
         "Microsoft.CloudPC/SharedUseServicePlans/Read",
+        "Microsoft.CloudPC/Snapshot/Import",
+        "Microsoft.CloudPC/Snapshot/PurgeImportedSnapshot",
         "Microsoft.CloudPC/Snapshot/Read",
         "Microsoft.CloudPC/Snapshot/Share",
         "Microsoft.CloudPC/SupportedRegion/Read",
