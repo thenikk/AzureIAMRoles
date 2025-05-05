@@ -1,0 +1,18 @@
+{
+  "description": "Manage aspects of Microsoft Graph Data Connect service in a tenant.",
+  "displayName": "Microsoft Graph Data Connect Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.azure.serviceHealth/allEntities/allTasks",
+        "microsoft.azure.supportTickets/allEntities/allTasks",
+        "microsoft.graph.dataConnect/allEntities/allProperties/allTasks",
+        "microsoft.office365.messageCenter/messages/read",
+        "microsoft.office365.serviceHealth/allEntities/allTasks",
+        "microsoft.office365.supportTickets/allEntities/allTasks",
+        "microsoft.office365.webPortal/allEntities/standard/read"
+      ],
+      "condition": null
+    }
+  ]
+}
