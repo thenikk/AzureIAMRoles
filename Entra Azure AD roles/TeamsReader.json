@@ -1,0 +1,13 @@
+{
+  "description": "Read everything in the Teams admin center, but not update anything.",
+  "displayName": "Teams Reader",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.office365.webPortal/allEntities/standard/read",
+        "microsoft.teams/allEntities/allProperties/read"
+      ],
+      "condition": null
+    }
+  ]
+}
