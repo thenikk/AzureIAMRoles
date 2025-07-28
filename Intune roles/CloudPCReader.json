@@ -5,6 +5,7 @@
     {
       "allowedResourceActions": [
         "Microsoft.CloudPC/ActionStatus/Read",
+        "Microsoft.CloudPC/AdminHighlights/Operate",
         "Microsoft.CloudPC/AuditData/Read",
         "Microsoft.CloudPC/BulkActions/Read",
         "Microsoft.CloudPC/CloudApps/Read",
@@ -26,6 +27,7 @@
         "Microsoft.CloudPC/ProvisioningPolicies/Read",
         "Microsoft.CloudPC/Roles/Read",
         "Microsoft.CloudPC/ServicePlan/Read",
+        "Microsoft.CloudPC/Settings/Read",
         "Microsoft.CloudPC/SharedUseLicenseUsageReports/Read",
         "Microsoft.CloudPC/SharedUseServicePlans/Read",
         "Microsoft.CloudPC/Snapshot/Read",

@@ -1,0 +1,12 @@
+{
+  "description": "Manage all aspects of the Microsoft Places service.",
+  "displayName": "Places Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.places/allEntities/allProperties/allTasks"
+      ],
+      "condition": null
+    }
+  ]
+}
