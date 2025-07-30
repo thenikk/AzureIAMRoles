@@ -7,8 +7,6 @@
         "Microsoft.CloudPC/ActionStatus/Read",
         "Microsoft.CloudPC/AdminHighlights/Operate",
         "Microsoft.CloudPC/AuditData/Read",
-        "Microsoft.CloudPC/BulkActions/Read",
-        "Microsoft.CloudPC/BulkActions/Write",
         "Microsoft.CloudPC/CloudApps/Publish",
         "Microsoft.CloudPC/CloudApps/Read",
         "Microsoft.CloudPC/CloudApps/Reset",
