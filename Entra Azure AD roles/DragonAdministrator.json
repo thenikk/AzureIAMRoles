@@ -1,0 +1,12 @@
+{
+  "description": "Manage all aspects of the Microsoft Dragon admin center.",
+  "displayName": "Dragon Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.healthPlatform/allEntities/allProperties/allTasks"
+      ],
+      "condition": null
+    }
+  ]
+}
