@@ -58,6 +58,7 @@
         "Microsoft.CloudPC/MaintenanceWindows/Delete",
         "Microsoft.CloudPC/MaintenanceWindows/Read",
         "Microsoft.CloudPC/MaintenanceWindows/Update",
+        "Microsoft.CloudPC/ManagedLicenses/Read",
         "Microsoft.CloudPC/OnPremisesConnections/Create",
         "Microsoft.CloudPC/OnPremisesConnections/Delete",
         "Microsoft.CloudPC/OnPremisesConnections/Read",

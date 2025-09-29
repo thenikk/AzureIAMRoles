@@ -21,6 +21,7 @@
         "Microsoft.CloudPC/FrontLineServicePlans/Read",
         "Microsoft.CloudPC/InaccessibleReports/Read",
         "Microsoft.CloudPC/MaintenanceWindows/Read",
+        "Microsoft.CloudPC/ManagedLicenses/Read",
         "Microsoft.CloudPC/OnPremisesConnections/Read",
         "Microsoft.CloudPC/OrganizationSettings/Read",
         "Microsoft.CloudPC/PerformanceReports/Read",
