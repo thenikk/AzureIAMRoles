@@ -1,0 +1,28 @@
+{
+  "description": "Back up and restore content (including granular restore) for SharePoint and OneDrive in Microsoft 365 Backup",
+  "displayName": "SharePoint Backup Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.azure.serviceHealth/allEntities/allTasks",
+        "microsoft.azure.supportTickets/allEntities/allTasks",
+        "microsoft.backup/oneDriveForBusinessProtectionPolicies/allProperties/allTasks",
+        "microsoft.backup/oneDriveForBusinessRestoreSessions/allProperties/allTasks",
+        "microsoft.backup/restorePoints/sites/allProperties/allTasks",
+        "microsoft.backup/restorePoints/userDrives/allProperties/allTasks",
+        "microsoft.backup/sharePointProtectionPolicies/allProperties/allTasks",
+        "microsoft.backup/sharePointRestoreSessions/allProperties/allTasks",
+        "microsoft.backup/siteProtectionUnits/allProperties/allTasks",
+        "microsoft.backup/siteRestoreArtifacts/allProperties/allTasks",
+        "microsoft.backup/userDriveProtectionUnits/allProperties/allTasks",
+        "microsoft.backup/userDriveRestoreArtifacts/allProperties/allTasks",
+        "microsoft.office365.network/performance/allProperties/read",
+        "microsoft.office365.serviceHealth/allEntities/allTasks",
+        "microsoft.office365.supportTickets/allEntities/allTasks",
+        "microsoft.office365.usageReports/allEntities/allProperties/read",
+        "microsoft.office365.webPortal/allEntities/standard/read"
+      ],
+      "condition": null
+    }
+  ]
+}

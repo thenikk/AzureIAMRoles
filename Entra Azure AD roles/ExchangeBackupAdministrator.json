@@ -1,0 +1,23 @@
+{
+  "description": "Back up and restore content (including granular restore) for Exchange in Microsoft 365 Backup",
+  "displayName": "Exchange Backup Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.azure.serviceHealth/allEntities/allTasks",
+        "microsoft.azure.supportTickets/allEntities/allTasks",
+        "microsoft.backup/exchangeProtectionPolicies/allProperties/allTasks",
+        "microsoft.backup/exchangeRestoreSessions/allProperties/allTasks",
+        "microsoft.backup/restorePoints/userMailboxes/allProperties/allTasks",
+        "microsoft.backup/userMailboxProtectionUnits/allProperties/allTasks",
+        "microsoft.backup/userMailboxRestoreArtifacts/allProperties/allTasks",
+        "microsoft.office365.network/performance/allProperties/read",
+        "microsoft.office365.serviceHealth/allEntities/allTasks",
+        "microsoft.office365.supportTickets/allEntities/allTasks",
+        "microsoft.office365.usageReports/allEntities/allProperties/read",
+        "microsoft.office365.webPortal/allEntities/standard/read"
+      ],
+      "condition": null
+    }
+  ]
+}
