@@ -12,6 +12,7 @@
         "Microsoft.CloudPC/CloudPCs/GetCloudPcLaunchInfo",
         "Microsoft.CloudPC/CloudPCs/Read",
         "Microsoft.CloudPC/CloudPCs/RetrieveAgentStatus",
+        "Microsoft.CloudPC/CloudPCUserSettingsPersistence/Read",
         "Microsoft.CloudPC/CrossCloudOrganizationMapping/Read",
         "Microsoft.CloudPC/CrossRegionDisasterRecovery/Read",
         "Microsoft.CloudPC/DeviceImages/Read",

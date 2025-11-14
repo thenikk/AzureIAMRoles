@@ -40,6 +40,8 @@
         "Microsoft.CloudPC/CloudPCs/Start",
         "Microsoft.CloudPC/CloudPCs/Stop",
         "Microsoft.CloudPC/CloudPCs/Troubleshoot",
+        "Microsoft.CloudPC/CloudPCUserSettingsPersistence/Delete",
+        "Microsoft.CloudPC/CloudPCUserSettingsPersistence/Read",
         "Microsoft.CloudPC/CrossCloudOrganizationMapping/Create",
         "Microsoft.CloudPC/CrossCloudOrganizationMapping/Read",
         "Microsoft.CloudPC/CrossRegionDisasterRecovery/Read",
