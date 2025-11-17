@@ -1,0 +1,27 @@
+{
+  "description": "Manage all aspects of agents in a tenant including identity lifecycle operations for agent blueprints, agent service principals, agent identities, and agentic users.",
+  "displayName": "Agent ID Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.azure.serviceHealth/allEntities/allTasks",
+        "microsoft.azure.supportTickets/allEntities/allTasks",
+        "microsoft.directory/accessReviews/definitions.applications/allProperties/allTasks",
+        "microsoft.directory/accessReviews/definitions.directoryRoles/allProperties/read",
+        "microsoft.directory/accessReviews/definitions.entitlementManagement/allProperties/allTasks",
+        "microsoft.directory/accessReviews/definitions.groups/allProperties/read",
+        "microsoft.directory/accessReviews/definitions.groups/allProperties/update",
+        "microsoft.directory/accessReviews/definitions.groups/create",
+        "microsoft.directory/accessReviews/definitions.groups/delete",
+        "microsoft.directory/externalUserProfiles/standard/read",
+        "microsoft.directory/groups/hiddenMembers/read",
+        "microsoft.directory/groups.unified/createAsOwner",
+        "microsoft.directory/organization/standard/read",
+        "microsoft.directory/policies/standard/read",
+        "microsoft.office365.serviceHealth/allEntities/allTasks",
+        "microsoft.office365.supportTickets/allEntities/allTasks"
+      ],
+      "condition": null
+    }
+  ]
+}

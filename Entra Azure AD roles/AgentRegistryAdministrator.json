@@ -1,0 +1,12 @@
+{
+  "description": "Manage all aspects of the Agent Registry service in Microsoft Entra ID",
+  "displayName": "Agent Registry Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.agentRegistry/allEntities/allProperties/allTasks"
+      ],
+      "condition": null
+    }
+  ]
+}
