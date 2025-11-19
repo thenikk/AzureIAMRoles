@@ -1,0 +1,12 @@
+{
+  "description": "Create an agent blueprint and its service principal in a tenant. User will be added as an owner of the agent blueprint and its service principal.",
+  "displayName": "Agent ID Developer",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [
+        "microsoft.directory/servicePrincipals/standard/read"
+      ],
+      "condition": null
+    }
+  ]
+}
