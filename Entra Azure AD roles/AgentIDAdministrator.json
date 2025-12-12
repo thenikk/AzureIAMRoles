@@ -6,13 +6,6 @@
       "allowedResourceActions": [
         "microsoft.azure.serviceHealth/allEntities/allTasks",
         "microsoft.azure.supportTickets/allEntities/allTasks",
-        "microsoft.directory/accessReviews/definitions.applications/allProperties/allTasks",
-        "microsoft.directory/accessReviews/definitions.directoryRoles/allProperties/read",
-        "microsoft.directory/accessReviews/definitions.entitlementManagement/allProperties/allTasks",
-        "microsoft.directory/accessReviews/definitions.groups/allProperties/read",
-        "microsoft.directory/accessReviews/definitions.groups/allProperties/update",
-        "microsoft.directory/accessReviews/definitions.groups/create",
-        "microsoft.directory/accessReviews/definitions.groups/delete",
         "microsoft.directory/externalUserProfiles/standard/read",
         "microsoft.directory/groups/hiddenMembers/read",
         "microsoft.directory/groups.unified/createAsOwner",
