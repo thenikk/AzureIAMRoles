@@ -1,0 +1,10 @@
+{
+  "description": "Manage or purge data from Microsoft 365 when accessing from the Microsoft Purview portal.",
+  "displayName": "Purview Workload Content Administrator",
+  "rolePermissions": [
+    {
+      "allowedResourceActions": [],
+      "condition": null
+    }
+  ]
+}
